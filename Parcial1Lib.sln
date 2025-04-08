@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1Lib", "Parcial1Lib\Parcial1Lib.csproj", "{295094E5-76DA-45BE-BEA3-E96DDACC284E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial1Tes", "Parcial1Tes\Parcial1Tes.csproj", "{B52C586B-5788-4C20-B6E8-E5CF321207E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295094E5-76DA-45BE-BEA3-E96DDACC284E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295094E5-76DA-45BE-BEA3-E96DDACC284E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295094E5-76DA-45BE-BEA3-E96DDACC284E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295094E5-76DA-45BE-BEA3-E96DDACC284E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52C586B-5788-4C20-B6E8-E5CF321207E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52C586B-5788-4C20-B6E8-E5CF321207E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52C586B-5788-4C20-B6E8-E5CF321207E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52C586B-5788-4C20-B6E8-E5CF321207E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFF0317-CD8A-427E-B54F-B5559AAB2613}
+	EndGlobalSection
+EndGlobal
